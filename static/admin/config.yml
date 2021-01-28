@@ -2,6 +2,9 @@ backend:
   name: github
   # change repo to your git repository url
   repo: ana-vela/netlify-blog
+  branch: main
+
+publish_mode: editorial_workflow
 
 media_folder: static/assets
 public_folder: /assets
@@ -56,7 +59,7 @@ collections:
       - name: path
         label: Path
         widget: string
-        pattern: [/]
+        pattern: [/, "Path must start with /"]
         hint: "Path must start with /"
       - { name: date, label: Date, widget: datetime }
       - { name: title, label: Title }
