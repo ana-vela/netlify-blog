@@ -76,3 +76,37 @@ collections:
           config:
             multiple: false
       - { name: body, label: Body, widget: markdown }
+      - { type: post, widget: hidden}
+  - name: projects
+    label: Projects
+    folder: _data/projects
+    slug: '{{year}}-{{month}}-{{day}}-{{slug}}'
+    create: true
+    fields:
+      - {
+          label: Template,
+          name: template,
+          widget: hidden,
+          default: ProjectsProject,
+        }
+      - name: path
+        label: Path
+        widget: string
+        pattern: [/, "Path must start with /"]
+        hint: "Path must start with /"
+      - { name: date, label: Date, widget: datetime }
+      - { name: title, label: Title }
+      - label: Meta Description
+        name: metaDescription
+        widget: text
+        required: false
+      - label: Featured Image
+        name: thumbnail
+        widget: image
+        hint: "Image size 1280x800 works best :)"
+        required: false
+        media_library:
+          config:
+            multiple: false
+      - { name: body, label: Body, widget: markdown }
+      - { type: projects, widget: hidden}
