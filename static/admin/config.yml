@@ -76,7 +76,7 @@ collections:
           config:
             multiple: false
       - { name: body, label: Body, widget: markdown }
-      - { type: post, widget: hidden}
+      - { name: type, label: type, default: post, widget: hidden}
   - name: projects
     label: Projects
     folder: _data/projects
@@ -109,4 +109,4 @@ collections:
           config:
             multiple: false
       - { name: body, label: Body, widget: markdown }
-      - { type: projects, widget: hidden}
+      - { name: type, label: type, default: projects, widget: hidden}
