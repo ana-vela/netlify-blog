@@ -63,4 +63,4 @@ Accessibility is a broad topic, so I leave you with a collection of great resour
 
 What is your experience with web accessibility? Do you have some resources to share? Connect with me to get the conversation going! 
 
-Photo courtesy of  [Unsplash](https://unsplash.com/photos/HE1zW44Zm_Y)
+[](https://unsplash.com/photos/HE1zW44Zm_Y)Photo by [Sora Sagano](https://unsplash.com/@sorasagano?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on [Unsplash](https://unsplash.com/s/photos/desktop?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)
