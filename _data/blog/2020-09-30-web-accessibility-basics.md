@@ -4,7 +4,7 @@ path: /article/web-accessibility-basics
 date: 2020-10-01T02:55:40.914Z
 title: Web Accessibility Basics
 metaDescription: Learn how to make your website more accessible to users
-thumbnail: /assets/image-2.jpg
+thumbnail: /assets/sora-sagano-wfsap6cixuw-unsplash-1-.jpg
 type: post
 ---
 Web accessibility begins with understanding clean, standard code. It is about keeping an inclusive mindset and using the best practices to build a website. Learning how to remove barriers to make your website easy to use is critical. This is a brief introduction to web accessibility with some practical tips to implement for a better user experience.
@@ -63,4 +63,4 @@ Accessibility is a broad topic, so I leave you with a collection of great resour
 
 What is your experience with web accessibility? Do you have some resources to share? Connect with me to get the conversation going! 
 
-Photo courtesy of  [Unsplash](https://unsplash.com/photos/HE1zW44Zm_Y)
+[](https://unsplash.com/photos/HE1zW44Zm_Y)Photo by [Sora Sagano](https://unsplash.com/@sorasagano?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on [Unsplash](https://unsplash.com/s/photos/desktop?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)
