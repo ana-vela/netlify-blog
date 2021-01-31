@@ -50,4 +50,4 @@ Although this Hacktoberfest had a rocky start, I feel more confident about appro
 
 And once you've prepared, you can start contributing to open source projects now and complete Hacktoberfest next year without the spammy PRs, of course!
 
-Have you ever participated in Hacktoberfest? If so, what was your experience like? Do you have any questions about Hacktoberfest or open source in general? Leave a comment to get the conversation going.
+Have you ever participated in Hacktoberfest? If so, what was your experience like? Do you have any questions about Hacktoberfest or open source in general?
