@@ -4,7 +4,7 @@ path: /article/web-accessibility-basics
 date: 2020-10-01T02:55:40.914Z
 title: Web Accessibility Basics
 metaDescription: Learn how to make your website more accessible to users
-thumbnail: /assets/image-2.jpg
+thumbnail: /assets/web-accessibility-photo.jpg
 type: post
 ---
 Web accessibility begins with understanding clean, standard code. It is about keeping an inclusive mindset and using the best practices to build a website. Learning how to remove barriers to make your website easy to use is critical. This is a brief introduction to web accessibility with some practical tips to implement for a better user experience.
