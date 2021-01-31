@@ -1,7 +1,7 @@
 ---
 template: BlogPost
 path: /article/3-components-for-successful-blogging
-date: 2021-01-31T07:32:16.782Z
+date: 2020-11-20T07:32:16.782Z
 title: 3 Components for Successful Blogging
 metaDescription: 3 Components for Successful Blogging
 thumbnail: /assets/blogging-components.jpg
