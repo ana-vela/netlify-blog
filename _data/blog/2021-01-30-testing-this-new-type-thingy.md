@@ -3,7 +3,7 @@ template: BlogPost
 path: /article/web-accessibility-basics
 date: 2020-10-01T02:55:40.914Z
 title: Web Accessibility Basics
-metaDescription: Another way to do this
+metaDescription: Learn how to make your website more accessible to users
 thumbnail: /assets/image-2.jpg
 type: post
 ---
