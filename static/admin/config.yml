@@ -1,12 +1,12 @@
 backend:
-  name: git-gateway
+  name: github
   # change repo to your git repository url
   repo: ana-vela/netlify-blog
   branch: main
   local_backend:
     url: http://localhost:8082/api/v1
     allowed_hosts: ['192.168.0.1']
-  publish_mode: editorial_workflow
+publish_mode: editorial_workflow
 
 media_folder: static/assets
 public_folder: /assets
