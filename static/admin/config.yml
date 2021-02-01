@@ -1,5 +1,5 @@
 backend:
-  name: github
+  name: git-gateway
   # change repo to your git repository url
   repo: ana-vela/netlify-blog
   branch: main
