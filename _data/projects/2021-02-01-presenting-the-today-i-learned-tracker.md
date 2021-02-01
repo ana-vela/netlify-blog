@@ -17,7 +17,7 @@ This year I made the leap into working with open source projects by helping main
 
 This open source project is a starting point for anyone who wants to document their web development learning by logging their progress through a GitHub repo. This repo is meant to be copied and altered based on the needs of the user. The content is geared toward beginners who are learning web development, but it can easily be edited. This is also a good way to practice using [Markdown](https://guides.github.com/features/mastering-markdown/).  
 
-This repo can be saved **privately** or **publicly**, but having it public allows for other developers and potential employers to see your progress. 
+This repo can be saved **privately** or **publicly**, but having it public allows for other developers and potential employers to see your progress.
 
 ### How to start using this template
 
