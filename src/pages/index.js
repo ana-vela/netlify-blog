@@ -37,7 +37,7 @@ const IndexPage = ({
       <HeroHeader/>
       <h2>Projects &darr;</h2>
       <div className="grids">{Projects}</div>
-      <h2>Blog Posts &darr;</h2>
+      <h2 style={{ marginTop: '50px' }} >Blog Posts &darr;</h2>
       <div className="grids">{Posts}</div>
     </Layout>
   );
