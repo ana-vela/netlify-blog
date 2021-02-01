@@ -1,10 +1,10 @@
 ---
-template: ProjectsProject
+template: ProjectsPost
 path: /presenting-the-today-i-learned-tracker
 date: 2020-12-31T02:37:28.961Z
 title: Presenting The "Today I Learned" Tracker!
 metaDescription: A Today I Learned Tracker
-thumbnail: /assets/til-tracker-banner.jpg
+thumbnail: /assets/tracker-photo.jpg
 type: projects
 ---
 As 2020 comes to a close, I decided to participate in Hashnode's #christmashackathon. I chose to create a  ["Today I Learned" Tracker](https://github.com/ana-vela/Today-I-Learned-Tracker)  on  [GitHub](https://github.com/), and I made this an open source project. This tracker is template of  [Markdown](https://guides.github.com/features/mastering-markdown/)  files where you can add what you are learning each day and keep track of any resources you are using.
@@ -48,3 +48,5 @@ If you are not familiar with how to contribute to open source projects, take a l
 ### Questions or Suggestions?
 
 Be sure to take a look at the [Today I Learned Tracker on GitHub](https://github.com/ana-vela/Today-I-Learned-Tracker) and give it a star. If you have any questions or suggestions, please let me know. Reach out to me on  [Twitter](https://twitter.com/anaveecodes) or [Instagram](https://instagram.com/anaveecodes).
+
+<span>Photo by <a href="https://unsplash.com/@northfolk?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">NORTHFOLK</a> on <a href="https://unsplash.com/@northfolk?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Unsplash</a></span>

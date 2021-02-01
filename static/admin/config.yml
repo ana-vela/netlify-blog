@@ -90,7 +90,7 @@ collections:
           label: Template,
           name: template,
           widget: hidden,
-          default: ProjectsProject,
+          default: ProjectsPost,
         }
       - name: path
         label: Path
