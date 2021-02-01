@@ -47,4 +47,4 @@ If you are not familiar with how to contribute to open source projects, take a l
 
 ### Questions or Suggestions?
 
-Be sure to take a look at the [Today I Learned Tracker on GitHub](https://github.com/ana-vela/Today-I-Learned-Tracker) and give it a star. If you have any questions or suggestions, please let me know. Reach out to me on  [Twitter](https://twitter.com/anaveecodes),  [Instagram](https://instagram.com/anaveecodes), or leave a comment below.
+Be sure to take a look at the [Today I Learned Tracker on GitHub](https://github.com/ana-vela/Today-I-Learned-Tracker) and give it a star. If you have any questions or suggestions, please let me know. Reach out to me on  [Twitter](https://twitter.com/anaveecodes) or [Instagram](https://instagram.com/anaveecodes).
