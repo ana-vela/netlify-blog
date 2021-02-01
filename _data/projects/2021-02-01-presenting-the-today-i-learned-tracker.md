@@ -1,7 +1,7 @@
 ---
 template: ProjectsProject
 path: /presenting-the-today-i-learned-tracker
-date: 2021-02-01T02:37:28.961Z
+date: 2020-12-31T02:37:28.961Z
 title: Presenting The "Today I Learned" Tracker!
 metaDescription: A Today I Learned Tracker
 thumbnail: /assets/til-tracker-banner.jpg
