@@ -28,7 +28,7 @@ const ContactPage = ({ data: { site } }) => {
           <form
             className="form-container"
             name="contact"
-            data-netlify-recaptcha="true"
+            data-netlify-honeypot="bot-field"
             data-netlify="true"
             method="post"
           >
