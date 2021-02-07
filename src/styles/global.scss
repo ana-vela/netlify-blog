@@ -297,6 +297,20 @@ a {
     }
   }
 }
+
+.social {
+  padding-bottom: 20px;
+}
+
+.socialIcons {
+  color: var(--primary-color);
+  font-size: 2.5rem;
+  padding-right: 1rem;
+  &:hover {
+    color: var(--secondary-color);
+  }
+}
+
 /* Portrait and Landscape */
 @media only screen 
 and (min-width: 768px) {
