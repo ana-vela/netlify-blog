@@ -46,6 +46,13 @@ collections:
                 label: Description
                 default: ''
                 required: false
+          - name: path
+            label: Path
+            widget: string
+            pattern: [/, "Path must start with /"]
+            hint: "Path must start with /"
+          - { name: title, label: Title }
+
 
   - name: pages
     label: Pages
@@ -55,7 +62,15 @@ collections:
         file: site/content/about.md
         fields:
           - { name: body, label: Body, widget: markdown }
-
+          - { label: Template, name: template, widget: hidden, default: BlogPost }
+          - label: Featured Image
+            name: thumbnail
+            widget: image
+            hint: "Image size 1280x800 works best :)"
+            required: false
+            media_library:
+            config:
+              multiple: false
   - name: blog
     label: Blog
     folder: _data/blog
