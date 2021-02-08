@@ -1,4 +1,5 @@
 ---
+thumbnail: null
 path: /about
 title: About Me
 ---
