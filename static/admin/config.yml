@@ -52,10 +52,10 @@ collections:
     files:
       - name: about
         label: About
-        file: site/content/about.md
+        file: _data/site/content/about.md
         fields:
           - { name: body, label: Body, widget: markdown }
-          - { label: Template, name: template, widget: hidden, default: BlogPost }
+          # - { label: Template, name: template, widget: hidden, default: BlogPost }
           - label: Featured Image
             name: thumbnail
             widget: image
