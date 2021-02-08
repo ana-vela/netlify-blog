@@ -46,13 +46,6 @@ collections:
                 label: Description
                 default: ''
                 required: false
-          - name: path
-            label: Path
-            widget: string
-            pattern: [/, "Path must start with /"]
-            hint: "Path must start with /"
-          - { name: title, label: Title }
-
 
   - name: pages
     label: Pages
@@ -71,6 +64,12 @@ collections:
             media_library:
             config:
               multiple: false
+          - name: path
+            label: Path
+            widget: string
+            pattern: [/, "Path must start with /"]
+            hint: "Path must start with /"
+          - { name: title, label: Title }
   - name: blog
     label: Blog
     folder: _data/blog
