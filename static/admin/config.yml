@@ -46,6 +46,16 @@ collections:
                 label: Description
                 default: ''
                 required: false
+
+  - name: pages
+    label: Pages
+    files:
+      - name: about
+        label: About
+        file: site/content/about.md
+        fields:
+          - { name: body, label: Body, widget: markdown }
+
   - name: blog
     label: Blog
     folder: _data/blog
