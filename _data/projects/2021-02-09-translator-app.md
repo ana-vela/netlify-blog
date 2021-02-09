@@ -1,6 +1,6 @@
 ---
 template: ProjectsPost
-path: /translator-app
+path: /translation-app
 date: 2021-02-09T07:40:43.096Z
 title: Translator App
 metaDescription: A translator app built with React and the Collins dictionary API
