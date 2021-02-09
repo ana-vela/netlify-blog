@@ -2,7 +2,7 @@
 template: ProjectsPost
 path: /translation-app
 date: 2021-02-09T07:40:43.096Z
-title: Translator App
+title: Translr - A Translation App
 metaDescription: A translator app built with React and the Collins dictionary API
 thumbnail: /assets/translator-app-flags.jpg
 type: projects
