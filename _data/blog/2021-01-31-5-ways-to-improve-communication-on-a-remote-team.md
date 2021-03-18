@@ -46,6 +46,6 @@ Think about ways to incorporate casual interactions between team members. Are th
 
 Improving communication can take time. There are many tools that can help you stay organized to work at a steady pace to complete a project. In most of my remote work, I used Google Docs, Google Sheets, Trello, and Asana. I have recently discovered Notion which has become my favorite tool this year. Notion is powerful because you can manage tasks, notes, calendars, and so much more all in one workspace. I created a [simple Notion template](https://www.notion.so/Project-Planning-and-Documentation-Template-7ce9a2a6927c495ba28790180b1cca3b) as an example of a shared document that can serve as a source of truth for a particular project. You can duplicate this template and customize it for your specific needs.  Let me know if you have any questions about the template or how to use Notion for your next project plan.
 
-Have any of these tips worked well for you before while working remotely with others? Are you also a fan of Notion? Add a comment to let me know.
+Have any of these tips worked well for you before while working remotely with others? Are you also a fan of Notion?
 
 <span>Photo by <a href="https://unsplash.com/@comparefibre?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Compare Fibre</a> on <a href="https://unsplash.com/?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Unsplash</a></span>
