@@ -34,14 +34,6 @@ module.exports = {
       },
     },
     {
-      resolve: `gatsby-plugin-google-analytics`,
-      options: {
-        // The property ID; the tracking code won't be generated without it. replace with yours
-        trackingId: "UA-164743872-1",
-        head: true,
-      }
-    },
-    {
       resolve: `gatsby-plugin-manifest`,
       options: {
         name: `Ana Vela | Front End Developer`,
@@ -58,7 +50,7 @@ module.exports = {
       options: {
         // You can add multiple tracking ids and a pageview event will be fired for all of them.
         trackingIds: [
-          "GATRACKINGID", // Google Analytics / GA
+          process.env.GA_TRACKING_ID, // Google Analytics / GA
         ],
       },
     },
