@@ -4,6 +4,7 @@ path: /overcoming-roadblocks-when-starting-a-developer-blog
 date: 2021-04-15T15:09:03.457Z
 title: How to Overcome 3 Common Roadblocks When Starting a Developer Blog
 metaDescription: Overcoming roadblocks when starting a developer blog
+thumbnail: /assets/bram-naus-n8qb1zakk88-unsplash.jpg
 type: post
 ---
 When I decided to start a developer blog last year, it took me months before I actually published my first post. It really didn't need to be this way. Throughout my blogging journey, I've gained some knowledge about what it takes to get started. From listening to other developers sharing their struggles along with my own, I've observed 3 common barriers that keep developers from getting their first post published. I'd like to share these with you along with some tips to overcome these roadblocks so you can get started sooner and maintain a more consistent blog of your own.
