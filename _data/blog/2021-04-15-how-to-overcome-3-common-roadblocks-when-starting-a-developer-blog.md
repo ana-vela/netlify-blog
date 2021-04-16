@@ -71,7 +71,7 @@ A few more tips to enhance your blogging experience:
 
 - Subscribe to the  [Blogging for Devs](https://bloggingfordevs.com/) 7-day email course and newsletter
 
-If you are currently blogging, what are some tips that have helped you start and maintain a developer blog? If you are planning to start a blog, are you facing any challenges at this point? 
+If you are currently blogging, what are some tips that have helped you start and maintain a developer blog? If you are planning to start a blog, are you facing any challenges at this point? Reach out through [Twitter](https://twitter.com/anaveecodes), [Instagram](https://instagram.com/anaveecodes), or through my [contact form](https://www.anavela.dev/contact).
 
 Photo by <a href="https://unsplash.com/@bramnaus?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Bram Naus</a> on <a href="https://unsplash.com/s/photos/laptop?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
   
