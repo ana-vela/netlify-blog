@@ -26,7 +26,7 @@ With some hosting setup and becoming familiar with [markdown](https://guides.git
  [Gatsby](https://github.com/gatsbyjs/gatsby-starter-blog) - get your Gatsby site hosted through Gatsby Cloud or Netlify.
 
 
-## Roadblock #2 - What Will to Write About?
+## Roadblock #2 - What Will You Write About?
 
 You've got a plan for where you will post, but now you need to figure out what you will write about. You might have a lot of ideas and not know where to start or feel like you need to do a lot of research before writing a post.
 
