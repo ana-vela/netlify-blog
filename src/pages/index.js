@@ -3,7 +3,7 @@ import Helmet from "react-helmet";
 import { graphql } from "gatsby";
 import Layout from "../components/layout";
 import PostLink from "../components/post-link";
-import ProjectLink from "../components/project-link";
+// import ProjectLink from "../components/project-link";
 import HeroHeader from "../components/heroHeader";
 
 const IndexPage = ({
@@ -12,13 +12,13 @@ const IndexPage = ({
     allMarkdownRemark: { edges },
   },
 }) => {
-  const Projects = edges
-    .filter(
-      (edge) =>
-        !!edge.node.frontmatter.date &&
-        edge.node.frontmatter.template === "ProjectsPost"
-    ) // You can filter your posts based on some criteria
-    .map((edge) => <ProjectLink key={edge.node.id} projects={edge.node} />);
+  // const Projects = edges
+  //   .filter(
+  //     (edge) =>
+  //       !!edge.node.frontmatter.date &&
+  //       edge.node.frontmatter.template === "ProjectsPost"
+  //   ) // You can filter your posts based on some criteria
+  //   .map((edge) => <ProjectLink key={edge.node.id} projects={edge.node} />);
 
   const Posts = edges
     .filter(
@@ -34,10 +34,10 @@ const IndexPage = ({
         <title>{site.siteMetadata.title}</title>
         <meta name="description" content={site.siteMetadata.description} />
       </Helmet>
-      <HeroHeader/>
-      <h2>Projects &darr;</h2>
-      <div className="grids">{Projects}</div>
-      <h2 style={{ marginTop: '50px' }} >Blog Posts &darr;</h2>
+      <HeroHeader />
+   {/*   <h2>Projects &darr;</h2> 
+   <div className="grids">{Projects}</div> */}
+      <h2 style={{ marginTop: "50px" }}>Blog Posts &darr;</h2>
       <div className="grids">{Posts}</div>
     </Layout>
   );
