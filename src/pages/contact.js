@@ -40,7 +40,7 @@ const ContactPage = ({ data: { site } }) => {
             </div>
             <div>
               <label htmlFor="email">Email</label>
-              <input type="email" name="email" />
+              <input type="email" name="email" required/>
             </div>
             <div>
               <label htmlFor="subject">Subject</label>
@@ -48,7 +48,7 @@ const ContactPage = ({ data: { site } }) => {
             </div>
             <div>
               <label htmlFor="message">Message</label>
-              <textarea type="text" name="message"></textarea>
+              <textarea type="text" name="message" required></textarea>
             </div>
             <div data-netlify-recaptcha="true"></div>
             <div style={{ display: "flex", justifyContent: "flex-end" }}>
