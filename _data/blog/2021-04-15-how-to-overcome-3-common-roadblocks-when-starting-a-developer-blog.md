@@ -45,7 +45,7 @@ Here are some broad areas you can focus on:
 - Share your experience of a bootcamp you attended
 
 
-## Roadblock #3 - What Will Your Writing Process Will Be Like?
+## Roadblock #3 - What Will Your Writing Process Be Like?
 
 Now that you know where you will publish and what topics you'll write about, you'll want to figure out a routine to get these posts written.
 
