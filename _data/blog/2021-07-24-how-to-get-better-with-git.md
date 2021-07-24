@@ -3,7 +3,9 @@ template: BlogPost
 path: /how-to-get-better-with-git
 date: 2021-07-24T00:14:32.433Z
 title: How to Get Better with Git
-metaDescription: Free resources and ideas to level up your git knowledge
+metaDescription: Learn how to level up your git knowledge with different types
+  of free resources such as git cheat sheets, e-books, video courses, articles,
+  and other tips
 thumbnail: /assets/level-up-git-commands.jpg
 type: post
 ---
