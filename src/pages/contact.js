@@ -22,7 +22,7 @@ const ContactPage = ({ data: { site } }) => {
           }}
         >
           <h1 className="post-title">Get in Touch</h1>
-          <p>Let me help you kick start your next project &rarr;</p>
+          <p>Send me a message, and I'll get back to you as soon as I can.&rarr;</p>
         </div>
         <div>
           <form
