@@ -2,9 +2,10 @@ import React from "react";
 import { StaticQuery, graphql, Link } from "gatsby";
 import SocialButtons from "../components/socialButtons";
 
-export default () => (
-  <StaticQuery
-    query={graphql`
+function Hero() {
+  return (
+    <StaticQuery
+      query={graphql`
       query HeadingQuery {
         site {
           siteMetadata {
@@ -16,22 +17,23 @@ export default () => (
         }
       }
     `}
-    render={(data) => (
-      <div className="hero-header">
-        <div className="headline">{data.site.siteMetadata.home.title}</div>
-        <div
-          className="primary-content"
-          dangerouslySetInnerHTML={{
-            __html: data.site.siteMetadata.home.description,
-          }}
-        />
+      render={(data) => (
+        <div className="hero-header">
+          <div className="headline">{data.site.siteMetadata.home.title}</div>
+          <div
+            className="primary-content"
+            dangerouslySetInnerHTML={{
+              __html: data.site.siteMetadata.home.description,
+            }} />
 
-        <SocialButtons />
+          <SocialButtons />
 
-        <Link to="/contact" className="button -primary">
-          Get in touch &rarr;
-        </Link>
-      </div>
-    )}
-  />
-);
+          <Link to="/contact" className="button -primary">
+            Get in touch &rarr;
+          </Link>
+        </div>
+      )} />
+  );
+}
+
+export default Hero;
