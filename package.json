@@ -288,7 +288,7 @@
       "libnpmteam",
       "libnpmversion"
     ],
-    "version": "2.5.0"
+    "version": "2.5.1"
   },
   "license": "Artistic-2.0",
   "engines": {
