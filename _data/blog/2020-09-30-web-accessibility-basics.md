@@ -59,7 +59,6 @@ Accessibility is a broad topic, so I leave you with a collection of great resour
 * [CodeNewbie podcast episode with an intro to accessibility](https://www.codenewbie.org/podcast/intro-to-accessibility) 
 * [A11y-101 - detailed accessibility tips for developers and designers](https://a11y-101.com/) 
 
-**If you are interested in making accessibility changes to open source projects, check out this [article](https://bellomuboye.hashnode.dev/a-beginners-first-pr-with-accessibility) by Bell Omuboye and/or join the  [Slack channel](https://a11yopensource.slack.com/join/shared_invite/zt-hm4awhpe-IFGV_y94E2N2n2L6s~VqRQ#/) for this group.** 
 
 What is your experience with web accessibility? Do you have some resources to share? Connect with me to get the conversation going! 
 
