@@ -65,7 +65,7 @@
     "@npmcli/package-json": "^1.0.1",
     "@npmcli/run-script": "^2.0.0",
     "abbrev": "~1.1.1",
-    "ansi-html": "^0.0.7",
+    "ansi-html": "^0.0.8",
     "ansicolors": "~0.3.2",
     "ansistyles": "~0.1.3",
     "archy": "~1.0.0",
