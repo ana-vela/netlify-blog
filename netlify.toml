@@ -3,7 +3,7 @@
   command = "gatsby build"
   
 [build.environment]
-  NODE_VERSION = "17.3.1"
+  NODE_VERSION = "18.15.0"
 
 [[plugins]]
   package = "netlify-plugin-gatsby-cache"
