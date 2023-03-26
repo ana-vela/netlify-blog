@@ -3,6 +3,7 @@ template: BlogPost
 path: /how-to-learn-any-programming-language
 date: 2023-03-26T00:05:51.371Z
 title: How to Learn Any Programming Language
+thumbnail: /assets/programming-language.jpg
 type: post
 ---
 Learning your first programming language or adding a new language to your tech toolbox might feel daunting. Each programming language has specific terminology and a variety of progressively complex concepts which could take years to truly understand. 
