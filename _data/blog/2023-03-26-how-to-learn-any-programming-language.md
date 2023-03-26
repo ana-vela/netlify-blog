@@ -1,7 +1,7 @@
 ---
 template: BlogPost
 path: /how-to-learn-any-programming-language
-date: 2023-03-26T00:05:51.371Z
+date: 2022-05-21T00:05:51.371Z
 title: How to Learn Any Programming Language
 thumbnail: /assets/programming-language.jpg
 type: post
