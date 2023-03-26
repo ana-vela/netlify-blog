@@ -3,6 +3,7 @@ template: BlogPost
 path: /how-to-develop-a-debugging-mindset
 date: 2023-03-12T03:15:24.381Z
 title: How to Develop a Debugging Mindset
+thumbnail: /assets/debugging-mindset.jpg
 type: post
 ---
 Good debugging strategies start well before issues come up. From simple typos to a long list of console errors, you have to deal with a range of bugs throughout your career as a developer. One way to approach debugging in a broader sense is to develop a debugging mindset. When you change the way you look at debugging, you'll develop a better toolbox to work with.
