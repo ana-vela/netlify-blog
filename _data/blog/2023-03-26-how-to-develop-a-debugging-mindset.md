@@ -52,4 +52,4 @@ Documentation could be as simple as adding notes to the ReadMe file. A bug-track
 
 Learning specific debugging techniques is important, but also think beyond those techniques. Getting better at debugging is an accumulation of all the things you do. The experiences with different codebases, the way you push yourself out of your comfort zone, the time you spend collaborating with other developers, and the technical skills you learn all contribute to your overall success as a developer.
 
-Do you consider yourself having a growth mindset? Feel free to comment or ask any questions below!
+Do you consider yourself having a growth mindset? Send me [a message](https://www.anavela.dev/contact) to continue the conversation.
