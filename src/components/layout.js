@@ -27,9 +27,6 @@ const Layout = ({ children }) => {
       {children}
       <footer className="site-footer">
         <p>
-          Subscribe to my <a href="https://buttondown.email/anavela">newsletter!</a>
-        </p>
-        <p>
           <SocialButtons /> &copy; {new Date().getFullYear()} Ana Vela{" "}
         </p>
       </footer>
