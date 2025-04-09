@@ -89,7 +89,7 @@
     "gatsby-remark-emojis": "^0.4.3",
     "gatsby-remark-prismjs": "^6.5.0",
     "gatsby-source-filesystem": "^4.5.1",
-    "gatsby-transformer-remark": "^5.5.1",
+    "gatsby-transformer-remark": "^6.13.1",
     "glob": "^7.2.0",
     "graceful-fs": "^4.2.8",
     "hosted-git-info": "^4.1.0",
