@@ -5,8 +5,8 @@ path: /about
 title: About Me
 date: 2020-09-01T02:55:40.914Z
 ---
-I've been learning programming off and on for a few years now. This year, I've gotten back into studying front-end development and building on my React skills. I'm working on a few projects now and will feature them on this site soon!
+I’m Ana, a web developer dedicated to constant learning and skill refinement. As a tech blogger, I enjoy sharing my experiences and resources with other fellow developers. In addition to my coding expertise, I’m particularly interested in documentation engineering and technical writing. I believe that clear, well-documented code is just as important as the code itself. In my spare time, I like exploring the natural beauty of New Mexico through nature walks and hikes.
 
-I've also started blogging! Merging tech and writing has been such a highlight for me this year. I'm getting the hang of publishing posts and am currently getting myself organized to blog consistently.
+
 
 Feel free to reach out on [Twitter](https://twitter.com/anaveecodes) or [Instagram](https://instagram.com/anaveecodes).
