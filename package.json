@@ -100,7 +100,7 @@
     "is-cidr": "^4.0.2",
     "json-parse-even-better-errors": "^2.3.1",
     "libnpmaccess": "^5.0.0",
-    "libnpmdiff": "^3.0.0",
+    "libnpmdiff": "^8.0.12",
     "libnpmexec": "^3.0.2",
     "libnpmfund": "^2.0.2",
     "libnpmhook": "^7.0.0",
@@ -235,11 +235,11 @@
   ],
   "devDependencies": {
     "@npmcli/eslint-config": "^2.0.0",
-    "@npmcli/template-oss": "^2.4.3",
+    "@npmcli/template-oss": "^4.28.1",
     "eslint": "^7.32.0",
     "licensee": "^8.2.0",
     "spawk": "^1.7.1",
-    "tap": "^15.1.6"
+    "tap": "^21.5.0"
   },
   "scripts": {
     "dumpconf": "env | grep npm | sort | uniq",
